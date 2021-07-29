@@ -4,7 +4,7 @@
 <ul>
   <li>import the dataset</li>
   <li>seperate training and testing data</li>
-  <li>create a model</li>
-  <li>test the model</li>
+  <li>create a ANN model</li>
+  <li>test the ANN model</li>
   </ul>
     
